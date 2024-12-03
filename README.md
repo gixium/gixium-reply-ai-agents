@@ -9,4 +9,5 @@ Check out the [final presentation](passione.pdf) along with the [challenge prese
 ## Installation
 - Chrome package is required.
 - Install all required packages `pip install -r requirements.txt`.
+- An API key is needed.
 - To run `python web.py`.
